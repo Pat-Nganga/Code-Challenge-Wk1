@@ -1,14 +1,14 @@
-Author:Patricia Ng'anga.
+Author:*Patricia Ng'ang'a.*
 
-JAVA SCRIPT FUNCTIONS CODE CHALLENGE 
+**JAVA SCRIPT FUNCTIONS CODE CHALLENGE**
 
-INTRODUCTON;
+*INTRODUCTON;*
 This is a JavaScript code that contains three functions, a grade generator,a speed detector and a salary calculator.
 The functions receive input from the user and provide relevant output. 
 Below is a brief description of each function:
 
 
-Grade generator;
+**Grade generator;**
 The grade generator function receives a value between 0-100 and returns the corresponding grade based on the following criteria:
 
 A: 80-100
@@ -21,7 +21,7 @@ The function is triggered when the user clicks on the get grade button on the we
 
 
 
-Speed detector;
+**Speed detector;**
 The speed detector function receives a value for speed and returns a value  based on the following criteria:
 
 
@@ -31,11 +31,11 @@ If the demerit points are less than 12, the output is the number of demerit poin
 If the demerit points are 12 or more, the output is "License suspended".
 
 
-This function is triggered when th euser clicks on the points button on the webpage.The function takes the user's input from th einput field and returns the 
+This function is triggered when the user clicks on the points button on the webpage.The function takes the user's input from the input field and returns the 
 value.
 
 
-Salary Calculator;
+**Salary Calculator;**
 The salary calculator function receives a value for gross salary and calculates the net salary after deducting PAYE tax, NHIF, and NSSF.
 
 PAYE tax:
@@ -68,7 +68,7 @@ NHIF:
 The function is triggered when the user clicks on the net salary button on the webpage. The function takes the user input from the input field and returns the corresponding net salary.
 
 
-USAGE OF THE PROJECT
+**USAGE OF THE PROJECT**
 
 Fork the project from the github repository
 Clone into your local machine
@@ -78,7 +78,7 @@ Clone into your local machine
 
 MIT License
 
-Copyright (c) [2023] [Patrica Ng'ang'a]
+Copyright (c) *[2023]* *[Patrica Ng'ang'a]*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -96,5 +96,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.*
 
