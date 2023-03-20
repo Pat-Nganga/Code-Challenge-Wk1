@@ -2,7 +2,7 @@ Author:*Patricia Ng'ang'a.*
 
 **JAVA SCRIPT FUNCTIONS CODE CHALLENGE**
 
-*INTRODUCTON;*
+**INTRODUCTON;**
 This is a JavaScript code that contains three functions, a grade generator,a speed detector and a salary calculator.
 The functions receive input from the user and provide relevant output. 
 Below is a brief description of each function:
