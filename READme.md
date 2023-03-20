@@ -1,8 +1,8 @@
 Author:*Patricia Ng'ang'a.*
 
-**JAVA SCRIPT FUNCTIONS CODE CHALLENGE**
+ # **JAVA SCRIPT FUNCTIONS CODE CHALLENGE**
 
-**INTRODUCTON;**
+## **INTRODUCTON;**
 This is a JavaScript code that contains three functions, a grade generator,a speed detector and a salary calculator.
 The functions receive input from the user and provide relevant output. 
 Below is a brief description of each function:
@@ -68,7 +68,7 @@ NHIF:
 The function is triggered when the user clicks on the net salary button on the webpage. The function takes the user input from the input field and returns the corresponding net salary.
 
 
-**USAGE OF THE PROJECT**
+### **USAGE OF THE PROJECT**
 
 Fork the project from the github repository
 Clone into your local machine
